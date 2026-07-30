@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+.jiwa-jawa/
+.run/
+data/
+tmp/
+.DS_Store
+
+# Environment dan rahasia
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Log dan PID
+*.log
+*.pid
+
+# File editor
+.vscode/
+.idea/
+
+output/

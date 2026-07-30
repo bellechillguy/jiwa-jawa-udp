@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+.git
+.venv
+.jiwa-jawa
+.run
+data
+output
+tmp
+docs/vd.md
+docs/panduan_penggunaan.pdf
+
