@@ -136,7 +136,7 @@ jiwa_jawa/rating.py         perhitungan Elo logistik
 scripts/test-netem.sh       bukti loss 50% dan cleanup otomatis
 ```
 
-Penjelasan packet, state, dan alur Raft ada di [docs/PROTOCOL.md](docs/PROTOCOL.md). Bukti pengujian dicatat di [docs/TEST_RESULTS.md](docs/TEST_RESULTS.md). Dokumen penggunaan ada di [docs/panduan-jiwa-jawa.pdf](docs/panduan-jiwa-jawa.pdf).
+Penjelasan packet, state, dan alur Raft ada di [docs/PROTOCOL.md](docs/PROTOCOL.md). Bukti pengujian dicatat di [docs/TEST_RESULTS.md](docs/TEST_RESULTS.md). Dokumen penggunaan ada di [docs/panduan-jiwa-jawa.pdf](docs/panduan_jiwa_jawa.pdf).
 
 
 ## Referensi aturan
@@ -144,3 +144,6 @@ Penjelasan packet, state, dan alur Raft ada di [docs/PROTOCOL.md](docs/PROTOCOL.
 - Dam-daman Jawa: https://id.wikibooks.org/wiki/Permainan_Tradisional_%22Catur%22_di_Indonesia/Dam-daman_(Jawa)
 - Netem: https://wiki.linuxfoundation.org/networking/netem
 - Elo: https://en.wikipedia.org/wiki/Elo_rating_system
+
+## Video demo
+- Link: https://youtu.be/lS-BwKrTOSo
